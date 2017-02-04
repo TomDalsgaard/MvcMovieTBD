@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovieTBD", "MvcMovieTBD\MvcMovieTBD.csproj", "{D1FB9E41-E1FD-471C-8357-5800CD5F3C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovieTBD.Tests", "MvcMovieTBD.Tests\MvcMovieTBD.Tests.csproj", "{3732351F-8B71-4F6C-802D-B45DB6E7CD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FB9E41-E1FD-471C-8357-5800CD5F3C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FB9E41-E1FD-471C-8357-5800CD5F3C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FB9E41-E1FD-471C-8357-5800CD5F3C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FB9E41-E1FD-471C-8357-5800CD5F3C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3732351F-8B71-4F6C-802D-B45DB6E7CD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3732351F-8B71-4F6C-802D-B45DB6E7CD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3732351F-8B71-4F6C-802D-B45DB6E7CD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3732351F-8B71-4F6C-802D-B45DB6E7CD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
